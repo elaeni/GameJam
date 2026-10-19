@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 54f92207248913b4c91333b2ef745fc4
+  - enabled: 1
+    path: Assets/Scenes/Level_1_description.unity
+    guid: fff03b83f2c54534cb11bb821188b33b
+  - enabled: 1
+    path: Assets/Scenes/LEVEL1_Max.unity
+    guid: 3f2cee900c1026a429a408e26e1f7ab4
+  - enabled: 1
+    path: Assets/Scenes/Level_1_finished.unity
+    guid: 1306b9f626617324a9924aaa186e6fee
+  - enabled: 1
+    path: Assets/Scenes/Level_2_description.unity
+    guid: 786565333d986446898cf8b2e34caf3e
+  - enabled: 1
+    path: Assets/Scenes/LEVEL2_Jannik.unity
+    guid: f1c81706d5a0d744da956c6ab706fb5a
+  - enabled: 1
+    path: Assets/Scenes/Level_2_finished.unity
+    guid: 86cfd0656bb9f48a3b0eece23d40965d
+  - enabled: 1
+    path: Assets/Scenes/Level_3_description.unity
+    guid: 2912b124f24664445a156b7d926ce0e7
+  - enabled: 1
+    path: Assets/Scenes/LEVEL3_Max.unity
+    guid: 52782bd87f0231b42a0e1de662820e22
+  - enabled: 1
+    path: Assets/Scenes/EndScene.unity
+    guid: 4f655f16d564f384ca995f5123f3cb4e
+  - enabled: 1
+    path: Assets/Scenes/GameOverScene.unity
+    guid: cd85e2a3d1124ec4c98da9b23980e335
+  m_configObjects: {}
